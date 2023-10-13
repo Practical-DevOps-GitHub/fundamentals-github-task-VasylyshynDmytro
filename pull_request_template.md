@@ -1,10 +1,6 @@
 ## Describe your changes
 
-(Provide a clear and concise description of the changes you are proposing.)
-
 ## Issue ticket number and link
-
-(If applicable, please mention the associated issue ticket number and provide a link to it.)
 
 ## Checklist before requesting a review
 
@@ -13,4 +9,3 @@
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
-(Ensure that you check the appropriate boxes and answer any relevant questions.)
